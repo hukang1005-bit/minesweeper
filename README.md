@@ -43,4 +43,4 @@ Core regression tests run without a terminal. They exercise rectangular boards, 
 
 ## Project history
 
-Refactored from the supplied `MineSweeper-main.zip` project. The original Windows console implementation was reorganized around a portable game engine. The current interface uses typed commands in place of Windows-only mouse events. Original archives and build outputs are retained only in the local backup.
+The project evolved from a Windows console implementation into a portable game engine. The current interface uses typed commands in place of Windows-only mouse events.
